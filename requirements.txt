@@ -1,0 +1,9 @@
+openai==1.54.3
+speechrecognition==3.10.4
+pyaudio==0.2.14
+pyttsx3==2.98
+gTTS==2.5.3
+requests==2.32.3
+beautifulsoup4==4.12.3
+duckduckgo-search==6.3.5
+python-dotenv==1.0.1
