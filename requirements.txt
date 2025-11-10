@@ -1,0 +1,7 @@
+openai>=1.44.0
+python-dotenv>=1.0.1
+sounddevice>=0.4.7
+soundfile>=0.12.1
+numpy>=1.26.0
+simpleaudio>=1.0.4
+requests>=2.32.3
