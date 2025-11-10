@@ -1,0 +1,6 @@
+openai>=1.0.0
+speechrecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.11
+duckduckgo-search>=4.0.0
+python-dotenv>=1.0.0
